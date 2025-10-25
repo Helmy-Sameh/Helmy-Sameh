@@ -2,7 +2,6 @@
 An enthusiastic **Back-End Developer**
 
 Reach me: [helmy.sameh@gmail.com](mailto:helmy.sameh@gmail.com)  
-Based in: Egypt  
 [LinkedIn](https://www.linkedin.com/in/helmy-sameh-helmy/)
 
 ---
