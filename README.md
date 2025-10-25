@@ -16,6 +16,7 @@ Reach me: [helmy.sameh@gmail.com](mailto:helmy.sameh@gmail.com)
 ---
 
 ###  Databases & ORM  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC0000?logo=python&logoColor=white)
 
