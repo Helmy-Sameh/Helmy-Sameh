@@ -54,7 +54,7 @@ Reach me: [youssefhelmy1c@icloud.com](mailto:youssefhelmy1c@icloud.com)
 * **Description:** Built a highly interactive dashboard to explore dynamic data relationships.
 * **Highlights:** Created maps and responsive charts where selecting a single data point instantly filters and highlights related regions across the entire view, accelerating real-time decisions.
 
-### 3. End-to-End Sales Analytics (Microsoft Excel)
+### 3. End-to-End Sales Analytics
 * **Description:** Developed a comprehensive and dynamic sales reporting dashboard.
 * **Highlights:** Conducted extensive data cleaning and preparation, utilizing Pivot Tables, Pivot Charts, and dynamic slicers to track KPIs dynamically based on time and category filters.
 
